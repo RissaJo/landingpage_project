@@ -133,4 +133,4 @@ Copyright (c) _May 2022_ _Nerissa Johnson_
 ### Project - Landing Page - Udacity
 ### Frontend Web Development Fundamentals Nanodegree Program
 
-> Live demo - [Landing Page](https://www.example.com). 
+> Live demo - [Landing Page](https://rissajo.github.io/landingpage_project/). 
