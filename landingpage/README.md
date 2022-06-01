@@ -126,8 +126,8 @@ Created by [@DesignedBy.Blue](https://www.instagram.com/designedby.blue/) - cont
 
 For any issues or questions - contact anyone but me. Seriously though, contact me or Udacity.
 
+Copyright (c) _Udacity_ 
 Copyright (c) _May 2022_ _Nerissa Johnson_
-
 
 ### Project - Landing Page - Udacity
 ### Frontend Web Development Fundamentals Nanodegree Program
