@@ -91,7 +91,7 @@ Mainly just have fun learning to code.
 
 ## Project Status
 
-Project is: _no longer being worked on. I need a mental break from all this. Plus, I have other goals to obtain like (next goal: getting my cometology license reinstated)_.
+Project is: _no longer being worked on. I need a mental break from all this. Plus, I have other goals to obtain like (next goal: getting my cosmetology license reinstated)_.
 
 
 ## Room for Improvement
