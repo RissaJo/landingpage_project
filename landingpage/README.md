@@ -69,9 +69,10 @@ _For specific, detailed instructions, look at the project instructions in the Ud
 
 ## Screenshots
 
-![Screenshot LandingPage 1 ](.img/sslanding1.png)
-![Screenshot LandingPage 2 ](.img/sslanding2.png)
-![Screenshot LandingPage 3 ](.img/sslanding3.png)
+![Screenshot LandingPage 1 ](https://raw.githubusercontent.com/RissaJo/landingpage_project/main/landingpage/img/sslanding%201.png)
+![Screenshot LandingPage 2 ](https://raw.githubusercontent.com/RissaJo/landingpage_project/main/landingpage/img/sslanding%202.png)
+![Screenshot LandingPage 3 ](https://raw.githubusercontent.com/RissaJo/landingpage_project/main/landingpage/img/sslanding%203.png)
+
 
 
 ## Setup
